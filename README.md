@@ -1,16 +1,23 @@
-### Hi there 👋
+# Karan Singh (@Karansingh005)
 
-<!--
-**Karansingh005/Karansingh005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Something to know about me: 
+I am a Computer Science and Engineering Undergradutae, currently persuing from Guru Tegh Bahadur Institute of Technology, New Delhi. I love to work with cloud technologies on various platforms such as Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform (GCP). I love to write articles on Medium and create tech videos on YouTube. 
 
-Here are some ideas to get you started:
+## Current Working Roles
+* Microsoft Student Partner (Beta Level) - Working since January 2020 to teach and influence about various Micrsoft Technologies to other students, and to enhance their overall skills by conducting seminars, webinars and writing blogs. 
+* Samsung Brand Ambassador - Working since December 2018 to promote Samsung products on various platform. Help other users in solving issues and aware them about new features on Samsung Members application platform. 
+* Cloud Intern at Sapio Analytics - Working since May 2020 with the cloud team at Sapio Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Past Working Roles
+* Cloud Intern at Internity Foundation - worked as cloud intern for winter internship from December 2019 to Janaury 2020.
+
+## Technical Skills
+* Programming Languages: C, C++, Java, Python and JavaScript.
+* Data Science: Familiar with Data Visualization, Data Analytics and Machine Learning using Python.
+* DevOps: Worked with Docker Containers, Kubernetes and Jenkins pipeline on AWS and Azure platforms.
+
+## Connect with me using:
+Twitter: https://twitter.com/karansingh_005
+LinkedIn: https://www.linkedin.com/in/karan-singh-344360153/
+Medium: https://medium.com/@karansinghreen
+YouTube: https://www.youtube.com/channel/UCAB548YaXcsKKGtb1kL9W6A/featured?view_as=subscriber
