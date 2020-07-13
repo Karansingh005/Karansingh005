@@ -17,7 +17,7 @@ I am a Computer Science and Engineering Undergradutae, currently persuing from G
 * DevOps: Worked with Docker Containers, Kubernetes and Jenkins pipeline on AWS and Azure platforms.
 
 ## Connect with me using:
-Twitter: https://twitter.com/karansingh_005
-LinkedIn: https://www.linkedin.com/in/karan-singh-344360153/
-Medium: https://medium.com/@karansinghreen
-YouTube: https://www.youtube.com/channel/UCAB548YaXcsKKGtb1kL9W6A/featured?view_as=subscriber
+* Twitter: https://twitter.com/karansingh_005
+* LinkedIn: https://www.linkedin.com/in/karan-singh-344360153/
+* Medium: https://medium.com/@karansinghreen
+* YouTube: https://www.youtube.com/channel/UCAB548YaXcsKKGtb1kL9W6A/featured?view_as=subscriber
