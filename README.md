@@ -1,7 +1,5 @@
-# Karan Singh (@Karansingh005)
-
-
 <p>
+  <h1> Karan Singh (@Karansingh005)</h1>
 <a href="https://twitter.com/karansingh_005">
   <img align="left" alt="Karan Singh's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
