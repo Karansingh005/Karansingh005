@@ -44,8 +44,8 @@ I am a Computer Science and Engineering Undergradutae, currently persuing from G
 </p>
 
 <ul>
-   <li>Data Science: Familiar with Data Visualization, Data Analytics and Machine Learning using Python.</li>
-   <li>Known cloud platforms: </li>
+  <li> <strong> Data Science: </strong> Familiar with Data Visualization, Data Analytics and Machine Learning using Python.</li>
+  <li> <strong> Known cloud platforms: </strong> </li>
    <p>
       <a><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
       <a><img src="https://img.icons8.com/color/48/000000/azure-1.png"/></a>
