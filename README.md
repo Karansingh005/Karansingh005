@@ -1,5 +1,21 @@
 # Karan Singh (@Karansingh005)
 
+
+<p>
+<a href="https://twitter.com/karansingh_005">
+  <img align="left" alt="Karan Singh's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/karan-singh-344360153/">
+  <img align="left" alt="Karan Singh's LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@karansinghreen">
+  <img align="left" alt="Karan Singh's Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCAB548YaXcsKKGtb1kL9W6A/featured?view_as=subscriber">
+  <img align="left" alt="Karan Singh's YouTue" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" />
+</a>
+</p>
+
 ![](https://github-readme-stats.vercel.app/api?username=Karansingh005&show_icons=true&theme=radical)
 
 ## Something to know about me: 
@@ -34,18 +50,4 @@ I am a Computer Science and Engineering Undergradutae, currently persuing from G
    <li>DevOps: Worked with Docker Containers, Kubernetes and Jenkins pipeline on AWS and Azure platforms.</li>
 </ul>
 
-<p>
-<a href="https://twitter.com/karansingh_005">
-  <img align="left" alt="Karan Singh's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/karan-singh-344360153/">
-  <img align="left" alt="Karan Singh's LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@karansinghreen">
-  <img align="left" alt="Karan Singh's Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCAB548YaXcsKKGtb1kL9W6A/featured?view_as=subscriber">
-  <img align="left" alt="Karan Singh's YouTue" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" />
-</a>
-</p>
 
