@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/channel/UCAB548YaXcsKKGtb1kL9W6A/featured?view_as=subscriber">
   <img align="left" alt="Karan Singh's YouTue" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" />
 </a>
-</p></br>
+</p><br />
 
 ![](https://github-readme-stats.vercel.app/api?username=Karansingh005&show_icons=true&theme=radical)
 
