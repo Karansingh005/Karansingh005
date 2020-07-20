@@ -23,8 +23,11 @@ I am a Computer Science and Engineering Undergradutae, currently persuing from G
    <a><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
    
 </p>
-* Data Science: Familiar with Data Visualization, Data Analytics and Machine Learning using Python.
-* DevOps: Worked with Docker Containers, Kubernetes and Jenkins pipeline on AWS and Azure platforms.
+
+<ul>
+   <li>Data Science: Familiar with Data Visualization, Data Analytics and Machine Learning using Python.</li>
+   <li>DevOps: Worked with Docker Containers, Kubernetes and Jenkins pipeline on AWS and Azure platforms.</li>
+</ul>
 
 <p>
 <a href="https://twitter.com/karansingh_005">
