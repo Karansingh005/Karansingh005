@@ -50,7 +50,12 @@ I am a Computer Science and Engineering Undergradutae, currently persuing from G
       <a><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
       <a><img src="https://img.icons8.com/color/48/000000/azure-1.png"/></a>
       <a><img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/></a>
-   <li>DevOps: Worked with Docker Containers, Kubernetes and Jenkins pipeline on AWS and Azure platforms.</li>
+     <li> <strong> DevOps: </strong> Worked with Docker Containers, Kubernetes and Jenkins pipeline on AWS and Azure platforms.</li>
+     <p>
+       <a><img src="https://img.icons8.com/material/48/000000/docker.png"/></a>
+       <a><img src="https://img.icons8.com/color/48/000000/kubernetes.png"/></a>
+       <a><img src="https://img.icons8.com/color/48/000000/jenkins.png"/></a>
+  </p>
 </ul>
 
 
