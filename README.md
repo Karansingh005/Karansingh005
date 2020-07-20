@@ -1,6 +1,6 @@
 # Karan Singh (@Karansingh005)
 
-![](https://github-readme-stats.vercel.app/api?username=Karansingh005&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
+![](https://github-readme-stats.vercel.app/api?username=Karansingh005&show_icons=true&theme=radical)
 
 ## Something to know about me: 
 I am a Computer Science and Engineering Undergradutae, currently persuing from Guru Tegh Bahadur Institute of Technology, New Delhi. I love to work with cloud technologies on various platforms such as Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform (GCP). I love to write articles on Medium and create tech videos on YouTube. 
