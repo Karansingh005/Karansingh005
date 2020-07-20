@@ -1,7 +1,5 @@
 # Karan Singh (@Karansingh005)
 
-![](https://github-readme-stats.vercel.app/api?username=Karansingh005&show_icons=true&theme=radical)
-
 <p>
 <a href="https://twitter.com/karansingh_005">
   <img align="left" alt="Karan Singh's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -15,8 +13,9 @@
 <a href="https://www.youtube.com/channel/UCAB548YaXcsKKGtb1kL9W6A/featured?view_as=subscriber">
   <img align="left" alt="Karan Singh's YouTue" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" />
 </a>
-</p>
+</p></br>
 
+![](https://github-readme-stats.vercel.app/api?username=Karansingh005&show_icons=true&theme=radical)
 
 ## Something to know about me: 
 I am a Computer Science and Engineering Undergradutae, currently persuing from Guru Tegh Bahadur Institute of Technology, New Delhi. I love to work with cloud technologies on various platforms such as Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform (GCP). I love to write articles on Medium and create tech videos on YouTube. 
