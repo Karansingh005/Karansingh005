@@ -14,7 +14,15 @@ I am a Computer Science and Engineering Undergradutae, currently persuing from G
 * **Cloud Intern at Internity Foundation**- worked as cloud intern for winter internship from December 2019 to Janaury 2020.
 
 ## Technical Skills
-* Programming Languages: C, C++, Java, Python and JavaScript.
+* **Programming Languages known:**
+<p>
+   <a><img src="https://img.icons8.com/ios-filled/48/000000/c-plus-plus-logo.png"/></a>
+   <a><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+   <a><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+   <a><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
+   <a><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+   
+</p>
 * Data Science: Familiar with Data Visualization, Data Analytics and Machine Learning using Python.
 * DevOps: Worked with Docker Containers, Kubernetes and Jenkins pipeline on AWS and Azure platforms.
 
