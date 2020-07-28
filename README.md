@@ -19,7 +19,6 @@
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=Karansingh005&show_icons=true&theme=radical)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karansingh005&theme=radical&hide=php,css,JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Something to know about me: 
