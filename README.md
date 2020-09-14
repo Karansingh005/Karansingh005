@@ -27,6 +27,7 @@ I am a Computer Science and Engineering Undergraduate, currently pursuing from G
 ## Current Working Roles
 * **Microsoft Learn Student Ambassador (Beta Level)** - *Working since January 2020 to teach and influence about various Micrsoft Technologies to other students, and to enhance their overall skills by conducting seminars, webinars and writing blogs.* 
 * **Samsung Brand Ambassador** - *Working since December 2018 to promote Samsung products on various platform. Help other users in solving issues and aware them about new features on Samsung Members application platform.* 
+* **Cloud lead at Kaizen Training Solutions Pvt. Ltd** - *working as a Cloud Lead intern, and contributing in various projects in the field of cloud solutions.*
 
 
 ## Past Working Roles
