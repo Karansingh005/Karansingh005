@@ -25,7 +25,6 @@
 I am a Computer Science and Engineering Undergraduate, currently pursuing from Guru Tegh Bahadur Institute of Technology, New Delhi. I love to work with cloud technologies on various platforms such as Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform (GCP). I love to write articles on Medium and create tech videos on YouTube. 
 
 ## Current Working Roles
-* **Microsoft Learn Student Ambassador (Beta Level)** - *Working since January 2020 to teach and influence about various Micrsoft Technologies to other students, and to enhance their overall skills by conducting seminars, webinars and writing blogs.* 
 * **Samsung Brand Ambassador** - *Working since December 2018 to promote Samsung products on various platform. Help other users in solving issues and aware them about new features on Samsung Members application platform.* 
 
 
@@ -33,6 +32,7 @@ I am a Computer Science and Engineering Undergraduate, currently pursuing from G
 * **Cloud Intern at Internity Foundation**- *worked as cloud intern for winter internship from December 2019 to Janaury 2020.*
 * **Cloud Intern at Sapio Analytics** - *Worked with the cloud team at Sapio Analytics from May 2020 to July 2020.*
 * **Cloud lead at Kaizen Training Solutions Pvt. Ltd** - *worked as a Cloud Lead intern, and contributing in various projects in the field of cloud solutions.*
+* **Microsoft Learn Student Ambassador (Beta Level)** - *Worked from January 2020 to January 2021 and influence about various Micrsoft Technologies to other students, and to enhance their overall skills by conducting seminars, webinars and writing blogs.* 
 * 
 ## Technical Skills
 * **Programming Languages known:**
